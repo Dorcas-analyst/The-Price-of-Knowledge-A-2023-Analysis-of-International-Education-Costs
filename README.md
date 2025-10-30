@@ -1,6 +1,7 @@
 # The-Price-of-Knowledge-A-2023-Analysis-of-International-Education-Costs
 This analysis explores the Cost of International Education Dataset, which compiles detailed financial information from universities around the world.
 --- 
+![International Cost Dashboard](https://github.com/user-attachments/assets/1b00a8a2-2a6b-4f84-b228-79230d2cc68c)
 
 ### Overview
 A global data analysis exploring the true cost of studying abroad — from tuition to rent, living costs, visa, and insurance.
