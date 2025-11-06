@@ -1,7 +1,7 @@
-# The-Price-of-Knowledge-A-2023-Analysis-of-International-Education-Costs
+# The-Real-Price-of-Knowledge:-A-Global-Data-Analysis-on-the-True-Cost-of-Studying-Abroad
 This analysis explores the Cost of International Education Dataset, which compiles detailed financial information from universities around the world.
 --- 
-![International Cost Dashboard](https://github.com/user-attachments/assets/1b00a8a2-2a6b-4f84-b228-79230d2cc68c)
+![international cost dashboard1](https://github.com/user-attachments/assets/a2ef8547-6b0f-4059-9cfa-ef083f2491fd)
 
 ### Overview
 A global data analysis exploring the true cost of studying abroad — from tuition to rent, living costs, visa, and insurance.
@@ -69,6 +69,6 @@ Limitations
 4. Limited demographic info (age, degree level).
 5. Dataset lacks income and funding source variables.
 
-📖 Read the full Medium version here → [The Price of Knowledge: A 2023 Analysis of International Education Costs](https://medium.com/@dorcasoyibo2000/the-price-of-knowledge-a-2023-analysis-of-international-education-costs-d48b9beab2bc)
+📖 Read the full Medium version here → [The Real Price of Knowledge: A Global Data Analysis on the True Cost of Studying Abroad](https://medium.com/@dorcasoyibo2000/the-price-of-knowledge-a-2023-analysis-of-international-education-costs-d48b9beab2bc)
 
-#DataAnalysis #Excel #Education #Finance #StudyAbroad #DataVisualization #DataStorytelling #PortfolioProject #CostOfEducation #VephlaUniversity
+#DataAnalysis #Excel #Education #Finance #StudyAbroad #DataVisualization #DataStorytelling #PortfolioProject #CostOfEducation #VephlaUniversity #HavenInternationalSchool #Kaggle #DataScience
